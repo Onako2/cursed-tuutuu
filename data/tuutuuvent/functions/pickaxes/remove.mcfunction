@@ -1,0 +1,3 @@
+clear @s iron_pickaxe 1
+clear @s golden_pickaxe 1
+give @s wooden_pickaxe[custom_name='{"color":"dark_green","italic":false,"text":"Pandaspitzhacke"}',lore=['{"color":"gold","italic":false,"text":"Diese Spitzhacke ist vom Gott Kleintuutuuu erschaffen worden, dies fördert Frieden"}','{"text":" "}','{"text":"Seltenheit: GEWÖHNLICH"}'],enchantment_glint_override=true,attribute_modifiers={modifiers:[{type:"generic.attack_damage",name:"generic.attack_damage",amount:-20,operation:"add_value",uuid:[I;-1488385452,1348944437,-1928131954,2038140497]}],show_in_tooltip:false}] 1
